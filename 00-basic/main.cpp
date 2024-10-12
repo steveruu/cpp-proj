@@ -27,6 +27,7 @@ int main()
     public:
         std::string name;
         int phoneNumber;
+        // konstruktor
         student() { std::cout << "student byl zalozen" << std::endl; };
     };
 
